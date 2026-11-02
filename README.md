@@ -1,5 +1,7 @@
 # Global E-Commerce Platform
 
+[![E-Commerce CI](https://github.com/abdullahzulfiqar137/Ecomerence/actions/workflows/ci.yml/badge.svg)](https://github.com/abdullahzulfiqar137/Ecomerence/actions/workflows/ci.yml)
+
 <p align="center">
   <strong>Full-stack e-commerce solution with an ASP.NET Core Clean Architecture backend</strong>
 </p>
